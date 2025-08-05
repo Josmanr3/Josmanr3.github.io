@@ -4,10 +4,9 @@
 
 ---
 
-### **Proyectos Destacados**
 ## 🚀 Proyectos Destacados
 
-Aquí puedes encontrar una selección de mis proyectos más representativos, que cubren diferentes áreas de aplicación del Machine Learning.
+Aquí puedes encontrar una selección de mis proyectos más representativos, que cubren diferentes áreas de aplicación del Machine Learning y Data Analyst
 
 #### **1. Clasificación de Psoriasis (TFG)**
 * **Descripción:** Este proyecto, desarrollado como mi Trabajo de Fin de Grado, se centra en la clasificación de imágenes de psoriasis utilizando modelos de Deep Learning. El objetivo es entrenar una Red Neuronal Convolucional (CNN) para identificar diferentes tipos de psoriasis y ayudar en el diagnóstico asistido por computadora.
@@ -23,13 +22,15 @@ Aquí puedes encontrar una selección de mis proyectos más representativos, que
 * **Estado:** Finalizado
 * **Notebook:** [https://www.kaggle.com/code/josemlearning/predicci-n-de-p-rdida-de-clientes-teleco/notebook)]
 
-### **Contacta Conmigo**
+## 📫Contacta Conmigo
 
 Estoy abierto a nuevas oportunidades de prácticas o primer empleo. Si mi trabajo te resulta interesante, no dudes en contactarme.
 
 * **LinkedIn:** [www.linkedin.com/in/josemanuelrosado]
 * **Correo Electrónico:** [josemrr99@gmail.com]
-* 
+  
 ---
 
+Gracias por visitar mi portfolio 🚀
+Gracias por visitar mi portfolio 🚀
 Gracias por visitar mi portfolio 🚀
