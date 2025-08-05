@@ -1,6 +1,6 @@
 # Portafolio de Proyectos de Machine Learning
 
-👋 ¡Hola! Soy José Manuel Rosado Rios, estudiante de Ingeniería de las Tecnologías de Telecomunicación con una gran pasión por el Machine Learning, la Inteligencia Artificial y la Ciencia de Datos. En este portafolio, demuestro mis habilidades prácticas para resolver problemas complejos utilizando tecnologías como Python, TensorFlow, Keras y librerías de Data Science.
+¡Hola! 👋 Soy José Manuel Rosado Rios, estudiante de Ingeniería de las Tecnologías de Telecomunicación con una gran pasión por el Machine Learning, la Inteligencia Artificial y la Ciencia de Datos. En este portafolio, demuestro mis habilidades prácticas para resolver problemas complejos utilizando tecnologías como Python, TensorFlow, Keras y librerías de Data Science.
 
 ---
 
