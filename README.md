@@ -1,6 +1,6 @@
-# Portafolio de Proyectos de Machine Learning de José Manuel Rosado Ríos
+# Portafolio de Proyectos de Machine Learning
 
-¡Hola! Soy José Manuel, estudiante de Ingeniería de las Tecnologías de Telecomunicación con una gran pasión por el Machine Learning, la Inteligencia Artificial y la Ciencia de Datos. En este portafolio, demuestro mis habilidades prácticas para resolver problemas complejos utilizando tecnologías como Python, TensorFlow, Keras y librerías de Data Science.
+👋 ¡Hola! Soy José Manuel Rosado Rios, estudiante de Ingeniería de las Tecnologías de Telecomunicación con una gran pasión por el Machine Learning, la Inteligencia Artificial y la Ciencia de Datos. En este portafolio, demuestro mis habilidades prácticas para resolver problemas complejos utilizando tecnologías como Python, TensorFlow, Keras y librerías de Data Science.
 
 ---
 
@@ -22,6 +22,8 @@ Aquí puedes encontrar una selección de mis proyectos más representativos, que
 * **Estado:** Finalizado
 * **Notebook:** [https://www.kaggle.com/code/josemlearning/predicci-n-de-p-rdida-de-clientes-teleco/notebook)]
 
+---
+
 ## 📫Contacta Conmigo
 
 Estoy abierto a nuevas oportunidades de prácticas o primer empleo. Si mi trabajo te resulta interesante, no dudes en contactarme.
@@ -31,6 +33,4 @@ Estoy abierto a nuevas oportunidades de prácticas o primer empleo. Si mi trabaj
   
 ---
 
-Gracias por visitar mi portfolio 🚀
-Gracias por visitar mi portfolio 🚀
 Gracias por visitar mi portfolio 🚀
