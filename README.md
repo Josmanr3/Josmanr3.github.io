@@ -1,36 +1,48 @@
-# Portafolio de Proyectos de Machine Learning
+# 📁 Portafolio de Proyectos de Machine Learning
 
-¡Hola! 👋 Soy José Manuel Rosado Rios, estudiante de Ingeniería de las Tecnologías de Telecomunicación con una gran pasión por el Machine Learning, la Inteligencia Artificial y la Ciencia de Datos. En este portafolio, demuestro mis habilidades prácticas para resolver problemas complejos utilizando tecnologías como Python, TensorFlow, Keras y librerías de Data Science.
+¡Hola! 👋 Soy **José Manuel Rosado Ríos**, estudiante de Ingeniería de las Tecnologías de Telecomunicación, apasionado por el **Machine Learning**, la **Inteligencia Artificial** y la **Ciencia de Datos**.
+
+En este portafolio encontrarás una selección de proyectos donde aplico mis habilidades para resolver problemas reales usando herramientas como **Python**, **TensorFlow**, **Keras** y librerías clave de análisis de datos.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-Aquí puedes encontrar una selección de mis proyectos más representativos, que cubren diferentes áreas de aplicación del Machine Learning y Data Science
-
-#### **1. Clasificación de Psoriasis (TFG)**
-* **Descripción:** Este proyecto, desarrollado como mi Trabajo de Fin de Grado, se centra en la clasificación de imágenes de psoriasis utilizando modelos de Deep Learning. El objetivo es entrenar una Red Neuronal Convolucional (CNN) para identificar diferentes tipos de psoriasis y ayudar en el diagnóstico asistido por computadora.
-* **Habilidades demostradas:** Visión por Computadora, Deep Learning, Preprocesamiento de Imágenes, 'Transfer Learning' con arquitecturas pre-entrenadas.
-* **Tecnologías:** Python, TensorFlow, Keras.
-* **Estado:** Finalizado
-* **Repositorio:** [https://github.com/Josmanr3/TFG_Psoriasis]
-
-#### **2. Predicción de Pérdida de Clientes en una Compañía de Telecomunicaciones**
-* **Descripción:** Este proyecto aborda un problema de negocio real: predecir qué clientes de una compañía de telecomunicaciones tienen más probabilidades de dejar de usar sus servicios ('churn'). Se utiliza un conjunto de datos histórico para entrenar un modelo de Machine Learning que ayude a la empresa a tomar medidas preventivas.
-* **Habilidades demostradas:** Data Science, Análisis Exploratorio de Datos (EDA), Preprocesamiento de Datos, Evaluación de Modelos, regresión logística, SMOTE, optimización de umbrales. 
-* **Tecnologías:** Python, Pandas, Matplotlib, Scikit-learn.
-* **Estado:** Finalizado
-* **Notebook:** [https://www.kaggle.com/code/josemlearning/predicci-n-de-p-rdida-de-clientes-teleco/notebook)]
+### 🔬 1. Clasificación de Psoriasis (TFG)
+📌 **Descripción**: Trabajo de Fin de Grado enfocado en la clasificación automática de imágenes de psoriasis usando redes neuronales convolucionales (CNN).  
+🎯 **Objetivo**: Asistir al diagnóstico clínico mediante Visión por Computadora.  
+🛠️ **Tecnologías**: Python, TensorFlow, Keras  
+📚 **Skills**: Computer Vision, Deep Learning, Preprocesamiento de imágenes, Transfer Learning  
+📁 [Repositorio](https://github.com/Josmanr3/TFG_Psoriasis)  
+✅ **Estado**: Finalizado
 
 ---
 
-## 📫Contacta Conmigo
+### 📉 2. Predicción de Pérdida de Clientes (Churn) - Telecom
+📌 **Descripción**: Predicción de bajas de clientes en una empresa de telecomunicaciones mediante técnicas de clasificación.  
+🎯 **Objetivo**: Identificar clientes con alta probabilidad de cancelación para intervenir preventivamente.  
+🛠️ **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib  
+📚 **Skills**: Data Science, EDA, Feature Engineering, Logistic Regression, SMOTE, Optimización de umbral  
+📓 [Notebook en Kaggle](https://www.kaggle.com/code/josemlearning/predicci-n-de-p-rdida-de-clientes-teleco/notebook)  
+✅ **Estado**: Finalizado
 
-Estoy abierto a nuevas oportunidades de prácticas o primer empleo. Si mi trabajo te resulta interesante, no dudes en contactarme.
-
-* **LinkedIn:** [www.linkedin.com/in/josemanuelrosado]
-* **Correo Electrónico:** [josemrr99@gmail.com]
-  
 ---
 
-Gracias por visitar mi portfolio 🚀
+## 🧰 Tecnologías y Herramientas
+
+- **Lenguajes**: Python, SQL  
+- **Librerías ML**: Scikit-learn, TensorFlow, Keras  
+- **Visualización**: Matplotlib, Seaborn  
+- **Otras herramientas**: Jupyter Notebook, Git, Kaggle, GitHub
+
+---
+
+## 📫 Contacta Conmigo
+
+💼 [LinkedIn](https://www.linkedin.com/in/josemanuelrosado)  
+📧 josemrr99@gmail.com
+
+---
+> ¡Estoy abierto a nuevas oportunidades profesionales o prácticas!
+> Gracias por visitar mi portfolio 🚀
+
