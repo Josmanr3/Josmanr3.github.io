@@ -6,7 +6,7 @@
 
 ## 🚀 Proyectos Destacados
 
-Aquí puedes encontrar una selección de mis proyectos más representativos, que cubren diferentes áreas de aplicación del Machine Learning y Data Analyst
+Aquí puedes encontrar una selección de mis proyectos más representativos, que cubren diferentes áreas de aplicación del Machine Learning y Data Science
 
 #### **1. Clasificación de Psoriasis (TFG)**
 * **Descripción:** Este proyecto, desarrollado como mi Trabajo de Fin de Grado, se centra en la clasificación de imágenes de psoriasis utilizando modelos de Deep Learning. El objetivo es entrenar una Red Neuronal Convolucional (CNN) para identificar diferentes tipos de psoriasis y ayudar en el diagnóstico asistido por computadora.
@@ -16,8 +16,8 @@ Aquí puedes encontrar una selección de mis proyectos más representativos, que
 * **Repositorio:** [https://github.com/Josmanr3/TFG_Psoriasis]
 
 #### **2. Predicción de Pérdida de Clientes en una Compañía de Telecomunicaciones**
-* **Descripción:** Este proyecto aborda un problema de negocio real: predecir qué clientes de una compañía de telecomunicaciones tienen más probabilidades de dejar de usar sus servicios ('churn'). Se utiliza un conjunto de datos histórico para entrenar un modelo de Machine Learning que ayude a la empresa a tomar medidas preventivas. Predicción de bajas de clientes usando regresión logística, SMOTE y optimización de umbrales. 
-* **Habilidades demostradas:** `Data Science`, Análisis Exploratorio de Datos (EDA), Preprocesamiento de Datos, Clasificación, Evaluación de Modelos, SMOTE
+* **Descripción:** Este proyecto aborda un problema de negocio real: predecir qué clientes de una compañía de telecomunicaciones tienen más probabilidades de dejar de usar sus servicios ('churn'). Se utiliza un conjunto de datos histórico para entrenar un modelo de Machine Learning que ayude a la empresa a tomar medidas preventivas.
+* **Habilidades demostradas:** Data Science, Análisis Exploratorio de Datos (EDA), Preprocesamiento de Datos, Evaluación de Modelos, regresión logística, SMOTE, optimización de umbrales. 
 * **Tecnologías:** Python, Pandas, Matplotlib, Scikit-learn.
 * **Estado:** Finalizado
 * **Notebook:** [https://www.kaggle.com/code/josemlearning/predicci-n-de-p-rdida-de-clientes-teleco/notebook)]
