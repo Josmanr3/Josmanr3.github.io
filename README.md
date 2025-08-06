@@ -14,7 +14,7 @@ En este portafolio encontrarás una selección de proyectos donde aplico mis hab
 🛠️ **Tecnologías**: Python, TensorFlow, Keras  
 📚 **Skills**: Computer Vision, Deep Learning, Preprocesamiento de imágenes, Transfer Learning  
 📁 [Repositorio](https://github.com/Josmanr3/TFG_Psoriasis)  
-✅ **Estado**: Finalizado
+<!-- ✅ **Estado**: Finalizado -->
 
 ---
 
@@ -24,7 +24,7 @@ En este portafolio encontrarás una selección de proyectos donde aplico mis hab
 🛠️ **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib  
 📚 **Skills**: Data Science, EDA, Feature Engineering, Logistic Regression, SMOTE, Optimización de umbral  
 📓 [Notebook en Kaggle](https://www.kaggle.com/code/josemlearning/predicci-n-de-p-rdida-de-clientes-teleco/notebook)  
-✅ **Estado**: Finalizado
+<!-- ✅ **Estado**: Finalizado -->
 
 ---
 
